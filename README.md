@@ -1,2 +1,6 @@
-# gentoo_lenovo_p15_gen2
-Configuration of linux-6.1.31-gentoo kernel for Lenovo Thinkpad P15 gen 2
+## Gentoo Linux on Lenovo Thinkpad P15 Gen 2
+
+1. Output from lspci on Lenovo Thinkpad P15 Gen 2 and
+1. Linux kernel configuration for linux-6.1.31-gentoo.
+
+
